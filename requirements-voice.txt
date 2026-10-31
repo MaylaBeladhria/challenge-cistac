@@ -1,0 +1,2 @@
+# Optional: local voice detection for reading aloud (runs on this computer, nothing is sent anywhere)
+faster-whisper

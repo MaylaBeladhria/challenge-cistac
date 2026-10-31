@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+braintwin.db
+.pytest_cache/
